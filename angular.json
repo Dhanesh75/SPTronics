@@ -24,9 +24,22 @@
               "src/assets"
             ],
             "styles": [
+              "assets/css/Cookie-Font.css",
+              "assets/css/Railway-Fonts.css",
+              "assets/fonts/font-awesome.min.css",
+              "assets/css/Contact-Form-Clean.css",
+              "assets/css/Pretty-Footer.css",
+              "assets/css/Projects-Clean.css",
+              "assets/css/styles.css",
+              "assets/css/Team-Boxed.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "assets/js/lightbox-plus-jquery.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "node_modules/jquery/dist/jquery.min.js"
+            ]
           },
           "configurations": {
             "production": {
